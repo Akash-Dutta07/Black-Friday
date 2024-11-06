@@ -2,7 +2,7 @@
 ![BlackFriday](https://github.com/user-attachments/assets/182c138a-5081-4677-b1ac-b1c333d4acc5)
 
 ## 📄 **OBJECTIVE**
-The "Black Friday" project is a Python-based analysis of consumer purchasing patterns, utilizing a dataset with over 500,000 records. This project explores various factors such as age, gender, occupation, and city categories to identify trends in purchase behavior. The data includes multiple product categories and purchase amounts, providing insights into popular products, top spending customers, and demographic patterns in consumer spending during Black Friday sales. This analysis supports understanding customer preferences and aids in developing strategies for targeted marketing and product recommendations.
+The "Black Friday" project is a Python-based analysis of consumer purchasing patterns, utilizing a dataset with over 500,000 records. This project explores various factors such as age, gender, occupation, and city categories to identify trends in purchase behavior. The data includes multiple product categories and purchase amounts, providing insights into popular products, top-spending customers, and demographic patterns in consumer spending during Black Friday sales. This analysis supports understanding customer preferences and aids in developing strategies for targeted marketing and product recommendations.
 
 
 
